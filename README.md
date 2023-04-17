@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="mailto:radrisaaa@gmail.com">Email me!</a>  </br>
+- 📫 How to reach me: 
+  <a href="mailto:radrisaaa@gmail.com">My Email!</a>  </br>
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to explore new things and learn from anywhere
 
