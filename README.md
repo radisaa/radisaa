@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Laravel & GoLang
+- 🌱 I’m currently learning Laravel, C# and Java
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <a href="mailto:radrisaaa@gmail.com">My Email!</a>  </br>
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like to explore new things and learn from anywhere
+
 
