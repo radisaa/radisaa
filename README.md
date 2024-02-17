@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Laravel, C# and Java
+- 🌱 I’m currently learning Java, Laravel, Javascript and Flutter
 
 <!--
 - 👯 I’m looking to collaborate on ...
